@@ -144,6 +144,8 @@ func conceptCheck(_ beforeTax:Double , _ taxDecimas:Double = 0.0833)->Double{
 print(conceptCheck(15, 0.0833))
 
 
+print(conceptCheck(15, 0.0833))
+
 
 
 
